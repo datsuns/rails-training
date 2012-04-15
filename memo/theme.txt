@@ -1,2 +1,2 @@
-export CLICOLOR=1
-export LSCOLORS=GxDxcxdxCxegedabagacad
+* ToDo
+	1.デフォルトのトップ画面を別のものに変える
